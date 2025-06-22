@@ -1,0 +1,27 @@
+{
+  "name": "matt-mensuration",
+  "version": "1.0.0",
+  "description": "A simple JavaScript modules for mensuration",
+  "main": "src/mensuration.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathdallas-code/mensuration.git"
+  },
+  "keywords": [
+    "math",
+    "js",
+    "simple"
+  ],
+  "author": "Mathdallas-code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mathdallas-code/mensuration/issues"
+  },
+  "homepage": "https://github.com/Mathdallas-code/mensuration#readme",
+  "dependencies": {
+    "matt-mensuration": "^1.0.0"
+  }
+}
