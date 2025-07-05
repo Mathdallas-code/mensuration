@@ -1,3 +1,7 @@
-A simple JavaScript package for mensuration!
+A basic mensuration calculator made in JavaScript.
 
-You can find the perimetre, area or volume of some common shapes
+## Features
+
+- Perimetre
+- Area
+- Volume
