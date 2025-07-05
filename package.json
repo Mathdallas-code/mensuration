@@ -1,10 +1,10 @@
 {
   "name": "matt-mensuration",
-  "version": "1.1.2",
+  "version": "1.0.1",
   "description": "A simple JavaScript modules for mensuration",
   "main": "src/mensuration.js",
   "scripts": {
-    "test": "echo \"No tests yet\" && exit 0"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,8 @@
     "url": "https://github.com/Mathdallas-code/mensuration/issues"
   },
   "homepage": "https://github.com/Mathdallas-code/mensuration#readme",
-  "dependencies": {
-    "matt-mensuration": "^1.0.0"
+  "devDependencies": {
+    "jest": "^30.0.4",
+    "matt-mensuration": "^1.1.2"
   }
 }
