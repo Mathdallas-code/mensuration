@@ -1,6 +1,6 @@
 {
   "name": "matt-mensuration",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A simple JavaScript modules for mensuration",
   "main": "src/mensuration.js",
   "scripts": {
