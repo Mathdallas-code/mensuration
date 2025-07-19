@@ -2,11 +2,14 @@ A basic mensuration calculator made in JavaScript.
 
 ## Features
 
-- Perimetre
-- Area
-- Volume
+- Perimetre - Reactangle, Square, Circle, Triangle, Parallelogram
+- Area - Reactangle, Square, Circle, Triangle, Parallelogram
+- Volume - Cuboid, Cube, Sphere, Cone, Cylinder
 
-NPM package website - 
+NPM package website -
 https://www.npmjs.com/package/matt-mensuration
-Download with npm - 
+
+GitHub website -
+https://github.com/Mathdallas-code/mensuration
+Download with npm -
 `npm i matt-mensuration`
