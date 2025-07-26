@@ -1,6 +1,6 @@
 {
   "name": "@mathdallas-code/matt-mensuration",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "A simple JavaScript modules for mensuration",
   "main": "src/mensuration.js",
   "scripts": {

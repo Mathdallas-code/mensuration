@@ -11,5 +11,10 @@ https://www.npmjs.com/package/matt-mensuration
 
 GitHub website -
 https://github.com/Mathdallas-code/mensuration
+
 Download with npm -
 `npm i matt-mensuration`
+
+GitHub package - 
+
+`https://github.com/Mathdallas-code/mensuration/pkgs/npm/matt-mensuration`
