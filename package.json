@@ -1,6 +1,6 @@
 {
-  "name": "matt-mensuration",
-  "version": "1.2.2",
+  "name": "@mathdallas-code/matt-mensuration",
+  "version": "1.2.3",
   "description": "A simple JavaScript modules for mensuration",
   "main": "src/mensuration.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Mathdallas-code/mensuration#readme",
   "publishConfig": {
-  "registry": "https://npm.pkg.github.com"
-}
+    "registry": "https://npm.pkg.github.com"
+  }
 }
